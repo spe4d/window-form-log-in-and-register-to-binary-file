@@ -1,0 +1,18 @@
+1
+What is the capital of England?
+London
+Paris
+Berlin
+London
+2
+What is the capital of Scotland?
+Glasgow
+Edinburgh
+Aberdeen
+Edinburgh
+3
+What is the capital of Wales?
+Newport
+Swansea
+Cardiff
+Cardiff

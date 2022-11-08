@@ -1,0 +1,182 @@
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Form1.resources
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+D:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+E:\SSD\coursework preparation\read text file into array of objects\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+D:\SSD\coursework preparation\read text file into array of objects - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+D:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+E:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+E:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+E:\SSD\coursework preparation\binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+D:\13c programs\16-11-17 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+D:\13c programs\16-11-23 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+D:\17-18 13d programs\17-11-09 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+D:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+E:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+E:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+E:\1 18-19 13c programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+N:\1 Year 13\programs\18-11-05 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+N:\1 Year 13\programs\19-10-21 binary file player objects text file questions\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (new version)\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (uses startup path)\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (uses startup path)\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects text file questions (uses startup path)\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.csprojResolveAssemblyReference.cache
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionFormInheritingFromTemplate.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.template.resources
+W:\Computing\2 A Level\1Year 13\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionFormInheritingFromTemplate.resources
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.template.resources
+N:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.Cache
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.CoreCompileInputs.cache
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.AssemblyReference.cache
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionFormInheritingFromTemplate.resources
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.template.resources
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.cache
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.CoreCompileInputs.cache
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+n:\1 Year 13\Coursework\19-10-21 binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.AssemblyReference.cache
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionForm.resources
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.QuestionFormInheritingFromTemplate.resources
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.template.resources
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.cache
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.CoreCompileInputs.cache
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+n:\1 Year 13\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+C:\Users\tdonaldson006\OneDrive - C2k\SSD\Fact file code\binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.AssemblyReference.cache
+C:\Users\tdonaldson006\OneDrive - C2k\SSD\Fact file code\binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+C:\Users\tdonaldson006\OneDrive - C2k\SSD\Fact file code\binary file player objects inheritable forms\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.NewPlayer.resources
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read_text_file_into_array_of_objects.Properties.Resources.resources
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.GenerateResource.cache
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.CoreCompileInputs.cache
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.exe
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.pdb
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe.config
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.exe
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\bin\Debug\read text file into array of objects.pdb
+C:\Users\torin\Documents\ssd\Coursework\binary file player objects inheritable forms - Copy\read text file into array of objects\obj\Debug\read text file into array of objects.csproj.AssemblyReference.cache
